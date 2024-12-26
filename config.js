@@ -6,8 +6,8 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "frediezra60@gmail.com";
-global.location = "Dar Es Salam,Tanzania.";
+global.email = "abdulyaqinawusi@gmail.com";
+global.location = "Ghana, techiman.";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
@@ -17,9 +17,9 @@ global.github = process.env.GITHUB || "https://github.com/Frecyber/Frecyber-md";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/1d4a42b28790d0f7a7195.jpg";
-global.devs = "255620814108,255764182801,255776663848,255752593977";
+global.devs = "222247304401";
 global.sudo = process.env.SUDO || "255620814108,255764182801,255776663848,255752593977";
-global.owner = process.env.OWNER_NUMBER || "255784686209,255745086279";
+global.owner = process.env.OWNER_NUMBER || "233247304401";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "true";
 global.wlcm = process.env.WELCOME || "true";
@@ -51,8 +51,8 @@ module.exports = {
   caption: process.env.CAPTION || "you're using first powerful bot to be released in Tanzania| enjoy your time| this is 𝐅𝚪𝚵𝐂𝐘𝚩𝚵𝚪 𝚳𝐃",
   author: process.env.PACK_AUTHER || "FRECYBER",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "FRECYBER-𝐌𝐃",
-  ownername: process.env.OWNER_NAME || "FRECYBER",
+  botname: process.env.BOT_NAME || "Qin😇",
+  ownername: process.env.OWNER_NAME || "Yaqin",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
